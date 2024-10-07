@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Achirawee Hirunpitchayanont
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi 👋 My name is Achirawee Hirunpitchayanont
+============================================
 
-<!---
-Achirawee-h/Achirawee-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Analyst
+------------
+
+I've been learning
+
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [h.achirawee@gmail.com](mailto:h.achirawee@gmail.com)
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
