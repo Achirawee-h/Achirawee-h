@@ -8,3 +8,14 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [h.achirawee@gmail.com](mailto:h.achirawee@gmail.com)
+
+Skills
+------------
+
+
+Tools
+------------
+* :computer: Scientifics Computing (Pandas, Numpy)
+* :bar_chart: Visualization (Matplotlib, Seaborn, Plotly)
+* 👾 Machine Learning and Deep Learning (Scikit-learn)
+* 
