@@ -11,11 +11,11 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 
 Skills
 ------------
-
+* Data Manipulation
+* Data Visualization
 
 Tools
 ------------
-* :computer: Scientifics Computing (Pandas, Numpy)
-* :bar_chart: Visualization (Matplotlib, Seaborn, Plotly)
-* 👾 Machine Learning and Deep Learning (Scikit-learn)
-* 
+* Scientifics Computing (Pandas, Numpy)
+* Visualization (Matplotlib, Seaborn, Plotly)
+* Machine Learning and Deep Learning (Scikit-learn)
