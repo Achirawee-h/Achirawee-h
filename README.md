@@ -12,17 +12,10 @@ Language
 ------------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-
-Skills
-------------
-* Data Manipulation
-* Data Visualization
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
 Tools
 ------------
 * Scientifics Computing (Pandas, Numpy)
-* **Visualization**
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-    (Matplotlib, Seaborn, Plotly)
+* Visualization (Matplotlib, Seaborn, Plotly)
 * Machine Learning and Deep Learning (Scikit-learn)
