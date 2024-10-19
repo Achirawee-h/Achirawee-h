@@ -1,6 +1,5 @@
 Hi 👋 My name is Achirawee Hirunpitchayanont
 ============================================
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Data Analyst
 ------------
 
@@ -8,6 +7,12 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [h.achirawee@gmail.com](mailto:h.achirawee@gmail.com)
+
+Language
+------------
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 
 Skills
 ------------
@@ -17,5 +22,5 @@ Skills
 Tools
 ------------
 * Scientifics Computing (Pandas, Numpy)
-* Visualization (Matplotlib, Seaborn, Plotly)
+* **Visualization** (Matplotlib, Seaborn, Plotly)
 * Machine Learning and Deep Learning (Scikit-learn)
