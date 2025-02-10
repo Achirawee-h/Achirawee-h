@@ -10,8 +10,8 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 
 Education
 ------------
-Bachelor's degree in Physics(B.Sc.), Thammasat University, Pathum Thani, Thailand
-Intensive English Course (3 Months), New College Group (NCG), Liverpool, England
+* Bachelor's degree in Physics(B.Sc.), Thammasat University, Pathum Thani, Thailand
+* Intensive English Course (3 Months), New College Group (NCG), Liverpool, England
 
 Languages
 ------------
