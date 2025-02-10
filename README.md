@@ -8,12 +8,15 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 * 🌍  I'm based in Thailand
 * ✉  You can contact me at [h.achirawee@gmail.com](mailto:h.achirawee@gmail.com)
 
+Education
+------------
+Thammasat University
+
 Languages
 ------------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 Tools
 ------------
