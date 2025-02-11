@@ -11,20 +11,15 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 Education
 ------------
 * **Bachelor's degree in Physics(B.Sc.)**, Thammasat University, Pathum Thani, Thailand
-  *  Coursework: Comparison of qubit mapping in molecular ground_state energy calculation of Lithium hydride
+  *  Coursework: Comparison of qubit mapping in molecular ground-state energy calculation of Lithium hydride
   
 * **Intensive English course (3 Months)**, New College Group (NCG), Liverpool, England
   * Completed an Intensive English course with Upper-Intermediate (B2) proficiency.
   * Awarded a 100% Attendence Certificate.
 
-Languages
-------------
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
 Tools
 ------------
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
