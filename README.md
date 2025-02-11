@@ -11,10 +11,11 @@ I am an enthusiastic Physics graduate with a strong analytical background and a 
 Education
 ------------
 * **Bachelor's degree in Physics(B.Sc.)**, Thammasat University, Pathum Thani, Thailand
-** Coursework: Comparison of qubit mapping in molecular ground_state energy calculation of Lithium hydride
+  *  Coursework: Comparison of qubit mapping in molecular ground_state energy calculation of Lithium hydride
+  
 * **Intensive English course (3 Months)**, New College Group (NCG), Liverpool, England
-** Completed an Intensive English course with Upper-Intermediate (B2) proficiency.
-** Awarded a 100% Attendence Certificate.
+  * Completed an Intensive English course with Upper-Intermediate (B2) proficiency.
+  * Awarded a 100% Attendence Certificate.
 
 Languages
 ------------
