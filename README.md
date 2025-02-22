@@ -32,5 +32,5 @@ Certificates
 
 Projects
 ------------
-* Credit Card Fraud Detection Using Machine Learning on Imbalance Dataset
+* [Credit Card Fraud Detection Using Machine Learning on Imbalance Dataset](https://github.com/Achirawee-h/Credit-Card-Fraud-Detection-Using-Machine-Learning-on-Imbalanced-Dataset)
 * [Web Scraping Historical Stock](https://github.com/Achirawee-h/Web-Scraping-Historical-Stock)
